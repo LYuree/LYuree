@@ -1,7 +1,6 @@
 # 💫 BIO
 
-## Здравствуйте! 👋<br>Вас приветствует Логвинов Юрий. Я - frontend-разработчик, моя специальность - разработка динамичных и адаптивных пользовательских интерфейсов на React.
-
+**Здравствуйте! 👋<br>Вас приветствует Логвинов Юрий. Я - frontend-разработчик, моя специальность - разработка динамичных и адаптивных пользовательских интерфейсов на React.**
 
 ## Обо мне
 
@@ -14,7 +13,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuriy-logvinov-a41879356) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slymerrow@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@n1mblebogg4rt)
 
-<br/>
 
 # 💻 Стэк / Tech Stack:
 
