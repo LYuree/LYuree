@@ -1,6 +1,6 @@
 # 💫 BIO
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%000000&lines=Привет+👋+Меня+зовут+Юрий)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%00000000&lines=Привет+👋+Меня+зовут+Юрий)](https://git.io/typing-svg)
 
 **Здравствуйте! 👋<br>Вас приветствует Логвинов Юрий. Я - frontend-разработчик, моя специальность - разработка динамичных и адаптивных пользовательских интерфейсов на React.**
 
